@@ -1,4 +1,3 @@
-# Obfuscated by www.perlobfuscator.com
 sub main() {
     sub ban() {
         printf("\033\x5B\x32\x4A\033\x5B\x39\x33\x6D");
