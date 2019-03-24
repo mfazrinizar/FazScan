@@ -42,3 +42,5 @@ or
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - perl fazscan.pl
+
+## Under Development to v1.0. Not fully released yet.
