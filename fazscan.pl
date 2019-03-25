@@ -950,7 +950,7 @@ sub main() {
    
         if($sr eq "\x79" or $sr eq "\x59") {
             sleep(2);
-            strt();
+            hth();
         } else { 
             sleep(2);
             printf("\x53\x65\x65\x20\x79\x61\x20\x21\x20\x3A\x29");
