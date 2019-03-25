@@ -1,5 +1,5 @@
 # FazScan Program for Vulnerability Scanner and Pentester
-![Version](https://img.shields.io/badge/FazScan-v1.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/FazScan-v1.0-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
 
 ![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscan.png)
 
