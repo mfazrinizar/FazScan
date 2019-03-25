@@ -1,6 +1,8 @@
-# FazScan
+# FazScan Program for Vulnerability Scanner and Pentester
 
-FazScan is a Perl program to do some vulnerability scanner and pentesting. This program has 14 ultimate options.
+![alt text](https://raw.githubusercontent.com/Anon6372098/FazScan/blob/master/img/fazscan.png)
+
+FazScan is a Perl program to do some vulnerability scanner and pentester. This program has 14 ultimate options.
 
 ### How to Run ?
 
