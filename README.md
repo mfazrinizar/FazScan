@@ -3,7 +3,7 @@
 
 ![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscan.png)
 
-FazScan is a Perl program to do some vulnerability scanner and pentester. This program has 14 ultimate options.
+FazScan is a Perl program to do some vulnerability scanning and pentesting. This program has 14 ultimate options.
 
 ## FazScan, Program for Vulnerability Scanner and Pentester
 
@@ -65,3 +65,7 @@ or
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - perl fazscan.pl
+
+### License
+
+![License_img](https://github.com/Anon6372098/FazScan/blob/master/img/FazScan_License.png)
