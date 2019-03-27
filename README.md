@@ -1,7 +1,7 @@
 # FazScan
-![Version](https://img.shields.io/badge/FazScan-v1.0-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
+![Version](https://img.shields.io/badge/FazScan-v1.1-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
 
-![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscan.png)
+![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscanv1.1.png)
 
 FazScan is a Perl program to do some vulnerability scanning and pentesting. This program has 14 ultimate options.
 
@@ -17,11 +17,12 @@ FazScan is a Perl program to do some vulnerability scanning and pentesting. This
   ##### 7. Web CMS Joomla Vulnerability Scanner
   ##### 8. Web CMS Lokomedia Vulnerability Scanner
   ##### 9. Web CMS Drupal Vulnerability Scanner + Shell Uploader
-  ##### 10. Automated Open Port Scanner
-  ##### 11. Denial of Service Attack
-  ##### 12. Admin Page Detector (7475 Pages Will be Scanned)
-  ##### 13. About the Programmer
-  ##### 14. Exit the Program
+  ##### 10. Dork Scanner `Update's New Feature`
+  ##### 11. Automated Open Port Scanner
+  ##### 12. Denial of Service Attack
+  ##### 13. Admin Page Detector (7475 Pages Will be Scanned)
+  ##### 14. About the Programmer
+  ##### 15. Exit the Program
 
 ### How to Run ?
 
