@@ -34,6 +34,7 @@ Follow the Instructions (You can use your own way too) :
 - apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
+- sh installpm.sh
 - perl fazscan.pl
 
 or
@@ -43,6 +44,7 @@ or
 - sudo apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
+- sh installpm.sh
 - perl fazscan.pl
 
 ### Windows (CMDer)
@@ -55,6 +57,7 @@ or
 - choco install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
+- sh installpm.sh
 - perl fazscan.pl
 
 ### Android (Termux)
@@ -64,6 +67,7 @@ or
 - pkg install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
+- sh installpm.sh
 - perl fazscan.pl
 
 ### License
