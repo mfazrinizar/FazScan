@@ -1,4 +1,5 @@
-cpan install LWP::Bundle
+cpan install Log::Log4perl
+cpan install Bundle::LWP
 cpan install LWP::UserAgent
 cpan install LWP::Simple
 cpan install HTTP::Response
