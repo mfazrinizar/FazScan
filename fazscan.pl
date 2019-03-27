@@ -1,4 +1,5 @@
 # !/usr/bin/perl
+# github.com/Anon6372098/FazScan
 # Coded by M.Fazri Nizar
 # Team : D4RK SYST3M F41LUR3 S33K3R
 # Contact Me : anon6372098.id@gmail.com
@@ -746,7 +747,6 @@ sub main() {
             use IO::Select;
             use HTTP::Cookies;
             use HTTP::Response;
-            use Term::ANSIColor;
             use HTTP::Request::Common qw(POST);
             use HTTP::Request::Common qw(GET);
             use URI::URL;
