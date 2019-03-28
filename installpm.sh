@@ -1,3 +1,4 @@
+cpan install YAML
 cpan install Log::Log4perl
 cpan install Bundle::LWP
 cpan install LWP::UserAgent
