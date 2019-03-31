@@ -11,13 +11,13 @@ FazScan is a Perl program to do some vulnerability scanning and pentesting. This
   ##### 1. SQL Injection Pentester
   ##### 2. Common SQLi Vulnerability Scanner
   ##### 3. Advanced SQLi Vulnerability Scanner
-  ##### 4. Common Web Vulnerability Scanner
+  ##### 4. Common Web Vulnerability Scanner `Updated 31/03/2019`
   ##### 5. Automated CMS Detector `Update's New Feature`
-  ##### 6. Web CMS WordPress Vulnerability Scanner
+  ##### 6. Web CMS WordPress Vulnerability Scanner `Updated 31/03/2019`
   ##### 7. Web CMS Magento Vulnerability Scanner
   ##### 8. Web CMS Joomla Vulnerability Scanner
   ##### 9. Web CMS Lokomedia Vulnerability Scanner
-  ##### 10. Web CMS Drupal Vulnerability Scanner + Shell Uploader
+  ##### 10. Web CMS Drupal Vulnerability Scanner + Shell Uploader `Updated 31/03/2019`
   ##### 11. Dork Scanner `Update's New Feature`
   ##### 12. Automated Open Port Scanner
   ##### 13. Denial of Service Attack
