@@ -34,6 +34,7 @@ Follow the Instructions (You can use your own way too) :
 - apt-get update
 - apt-get install perl
 - apt-get install clang
+- apt-get install gcc
 - apt-get install make
 - apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
@@ -46,11 +47,12 @@ or
 - sudo apt-get update
 - sudo apt-get install perl
 - sudo apt-get install clang
+- sudo apt-get install gcc
 - sudo apt-get install make
 - sudo apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
-- sh installpm.sh
+- sh installpms.sh
 - perl fazscan.pl
 
 ### Windows (CMDer)
@@ -81,5 +83,7 @@ or
 - perl fazscan.pl
 
 ### License
+
+Apache 2.0 Licensed
 
 ![License_img](https://github.com/Anon6372098/FazScan/blob/master/img/FazScan_License.png)
