@@ -1,4 +1,4 @@
-# !/usr/bin/perl
+# !/usr/bin/perl -w
 # github.com/Anon6372098/FazScan
 # Coded by M.Fazri Nizar
 # Team : D4RK SYST3M F41LUR3 S33K3R
