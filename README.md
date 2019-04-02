@@ -36,6 +36,7 @@ Follow the Instructions (You can use your own way too) :
 - apt-get install clang
 - apt-get install gcc
 - apt-get install make
+- apt-get install liblwp-protocol-https-perl
 - apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
@@ -49,6 +50,7 @@ or
 - sudo apt-get install clang
 - sudo apt-get install gcc
 - sudo apt-get install make
+- sudo apt-get install liblwp-protocol-https-perl
 - sudo apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
