@@ -36,6 +36,7 @@ Follow the Instructions (You can use your own way too) :
 - apt-get install clang
 - apt-get install gcc
 - apt-get install make
+- cpan `If you're first in Perl. If you're asked for an option, just type like the recomendation (ex : [local::lib], just type local::lib then enter). If stuck, exit the terminal and continue to the next step`
 - apt-get install liblwp-protocol-https-perl
 - apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
@@ -50,6 +51,7 @@ or
 - sudo apt-get install clang
 - sudo apt-get install gcc
 - sudo apt-get install make
+- sudo cpan `If you're first in Perl. If you're asked for an option, just type like the recomendation (ex : [local::lib], just type local::lib then enter). If stuck, exit the terminal and continue to the next step`
 - sudo apt-get install liblwp-protocol-https-perl
 - sudo apt-get install git
 - git clone https://github.com/Anon6372098/FazScan
@@ -66,6 +68,7 @@ or
 - choco install perl
 - choco install llvm
 - choco install make
+- cpan `If you're first in Perl. If you're asked for an option, just type like the recomendation (ex : [local::lib], just type local::lib then enter). If stuck, exit the terminal and continue to the next step`
 - choco install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
@@ -78,6 +81,7 @@ or
 - pkg install perl
 - pkg install clang
 - pkg install make
+- cpan `If you're first in Perl. If you're asked for an option, just type like the recomendation (ex : [local::lib], just type local::lib then enter). If stuck, exit the terminal and continue to the next step`
 - pkg install git
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
