@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -18,3 +18,6 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Describe about your feature request**
+Describe as clear as possible about your request feature here.
