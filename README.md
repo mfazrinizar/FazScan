@@ -1,7 +1,7 @@
 # FazScan
 ![Version](https://img.shields.io/badge/FazScan-v1.1-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
 
-![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscanv1.1-2.png)
+![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscanv1.1-2-2.png)
 
 FazScan is a Perl program to do some vulnerability scanning and pentesting. This program has 16 ultimate options.
 
