@@ -42,6 +42,7 @@ Follow the Instructions (You can use your own way too) :
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - sh installpm.sh
+- cpan install -fi LWP::UserAgent
 - perl fazscan.pl
 
 or
@@ -57,6 +58,7 @@ or
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - sh installpms.sh
+- sudo cpan install -fi LWP::UserAgent
 - perl fazscan.pl
 
 ### Windows (CMDer)
@@ -73,6 +75,7 @@ or
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - sh installpm.sh
+- cpan install -fi LWP::UserAgent
 - perl fazscan.pl
 
 ### Android (Termux)
@@ -86,6 +89,7 @@ or
 - git clone https://github.com/Anon6372098/FazScan
 - cd FazScan
 - sh installpm.sh
+- cpan install -fi LWP::UserAgent
 - perl fazscan.pl
 
 ### License
