@@ -12,3 +12,4 @@ sudo cpan install HTTP::Response
 sudo cpan install HTTP::Request::Common
 sudo cpan install URI::URL
 sudo cpan install IO::Socket::INET
+sudo cpan install JSON
