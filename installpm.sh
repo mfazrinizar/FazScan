@@ -12,3 +12,4 @@ cpan install HTTP::Response
 cpan install HTTP::Request::Common
 cpan install URI::URL
 cpan install IO::Socket::INET
+cpan install JSON
