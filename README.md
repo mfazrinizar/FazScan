@@ -1,5 +1,5 @@
 # FazScan
-![Version](https://img.shields.io/badge/FazScan-v1.1-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
+![Version](https://img.shields.io/badge/FazScan-v1.2-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-English-blue.svg) ![Status](https://img.shields.io/badge/Release-Stable-important.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg) ![Compatibility](https://img.shields.io/badge/Compatible%20OS-Linux%2FWindows%2FAndroid-brightgreen.svg)
 
 ![FazScan](https://github.com/Anon6372098/FazScan/blob/master/img/fazscanv1.1-2-2.png)
 
@@ -11,19 +11,21 @@ FazScan is a Perl program to do some vulnerability scanning and pentesting. This
   ##### 1. SQL Injection Pentester
   ##### 2. Common SQLi Vulnerability Scanner
   ##### 3. Advanced SQLi Vulnerability Scanner
-  ##### 4. Common Web Vulnerability Scanner `Updated 31/03/2019`
-  ##### 5. Automated CMS Detector `Update's New Feature`
-  ##### 6. Web CMS WordPress Vulnerability Scanner `Updated 31/03/2019`
+  ##### 4. Common Web Vulnerability Scanner 
+  ##### 5. Automated CMS Detector 
+  ##### 6. Web CMS WordPress Vulnerability Scanner 
   ##### 7. Web CMS Magento Vulnerability Scanner
   ##### 8. Web CMS Joomla Vulnerability Scanner
   ##### 9. Web CMS Lokomedia Vulnerability Scanner
-  ##### 10. Web CMS Drupal Vulnerability Scanner + Shell Uploader `Updated 31/03/2019`
-  ##### 11. Dork Scanner `Update's New Feature`
-  ##### 12. Automated Open Port Scanner
-  ##### 13. Denial of Service Attack
-  ##### 14. Admin Page Detector (7475 Pages Will be Scanned)
-  ##### 15. About the Programmer
-  ##### 16. Exit the Program
+  ##### 10. Web CMS Drupal Vulnerability Scanner + Shell Uploader
+  ##### 11. Web Information Tool Kit `Update's New Feature`
+  ##### 12. CloudFlare WAF Protection Bypasser `Update's New Feature`
+  ##### 13. Dork Scanner
+  ##### 14. Automated Open Port Scanner
+  ##### 15. Denial of Service Attack
+  ##### 16. Admin Page Detector (7475 Pages Will be Scanned)
+  ##### 17. About the Programmer
+  ##### 18. Exit the Program
 
 ### How to Run ?
 
