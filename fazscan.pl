@@ -1,4 +1,3 @@
-# Obfuscated by www.perlobfuscator.com
 # !/usr/bin/perl -w
 # github.com/Anon6372098/FazScan
 # Coded by M.Fazri Nizar
