@@ -1,16 +1,16 @@
-cpan install Log::Log4perl
-cpan install YAML
-cpan install Bundle::LWP
-cpan install LWP::UserAgent
-cpan install LWP::Simple
-cpan install HTTP::Response
-cpan install Getopt::Long
-cpan install HTTP::Request
-cpan install IO::Select
-cpan install HTTP::Cookies
-cpan install HTTP::Response
-cpan install HTTP::Request::Common
-cpan install URI::URL
-cpan install IO::Socket::INET
-cpan install JSO
-cpan install WWW::Mechanize
+cpan install -fi Log::Log4perl
+cpan install -fi YAML
+cpan install -fi Bundle::LWP
+cpan install -fi LWP::UserAgent
+cpan install -fi LWP::Simple
+cpan install -fi HTTP::Response
+cpan install -fi Getopt::Long
+cpan install -fi HTTP::Request
+cpan install -fi IO::Select
+cpan install -fi HTTP::Cookies
+cpan install -fi HTTP::Response
+cpan install -fi HTTP::Request::Common
+cpan install -fi URI::URL
+cpan install -fi IO::Socket::INET
+cpan install -fi JSON
+cpan install -fi WWW::Mechanize
