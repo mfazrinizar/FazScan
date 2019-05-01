@@ -1,16 +1,16 @@
-sudo cpan install Log::Log4perl
-sudo cpan install YAML
-sudo cpan install Bundle::LWP
-sudo cpan install LWP::UserAgent
-sudo cpan install LWP::Simple
-sudo cpan install HTTP::Response
-sudo cpan install Getopt::Long
-sudo cpan install HTTP::Request
-sudo cpan install IO::Select
-sudo cpan install HTTP::Cookies
-sudo cpan install HTTP::Response
-sudo cpan install HTTP::Request::Common
-sudo cpan install URI::URL
-sudo cpan install IO::Socket::INET
-sudo cpan install JSON
-sudo cpan install WWW::Mechanize
+sudo cpan install -fi Log::Log4perl
+sudo cpan install -fi YAML
+sudo cpan install -fi Bundle::LWP
+sudo cpan install -fi LWP::UserAgent
+sudo cpan install -fi LWP::Simple
+sudo cpan install -fi HTTP::Response
+sudo cpan install -fi Getopt::Long
+sudo cpan install -fi HTTP::Request
+sudo cpan install -fi IO::Select
+sudo cpan install -fi HTTP::Cookies
+sudo cpan install -fi HTTP::Response
+sudo cpan install -fi HTTP::Request::Common
+sudo cpan install -fi URI::URL
+sudo cpan install -fi IO::Socket::INET
+sudo cpan install -fi JSON
+sudo cpan install -fi WWW::Mechanize
